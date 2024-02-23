@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_message">Привет, Мир!</string>
+    <string name="hello_message2">Привет, Вселенная!</string>
+    <string name="put_message">Нажми на меня!</string>
+    <string name="put_message2">ЖМИ!!!!</string>
+    <string name="edit_message">Введите текст!</string>
+</resources>
